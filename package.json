@@ -893,7 +893,8 @@
     "test": "there is an error ",
     "predeploy": "npm run build",
     "build": "react-scripts build",
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "deploy" : "gh-pages -d build"
   },
   "repository": {
     "type": "git",
