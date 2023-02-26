@@ -1,0 +1,53 @@
+.container{
+    width: 70%;
+    background-color: black;
+    border-radius: 10px;
+}
+.row{
+    width: 90%;
+    background-color: rgba(54, 45, 122, 0.412);
+    margin: 0 auto;
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.price{
+    width: auto; height: auto;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgba(107, 16, 163, 0.712);
+    border: 1px solid white;
+}
+.name{
+    width: 50%;
+    padding: 15px;
+}
+.date{
+    font-size: 16px;
+    margin: 20px;
+    padding: 15px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.button{
+    float: right;
+    vertical-align: middle;
+    height: 50px;
+}
+.form{
+    background-color: rgb(39, 39, 134);
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.form div {
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 20px;
+}

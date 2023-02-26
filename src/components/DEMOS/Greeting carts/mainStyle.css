@@ -1,0 +1,37 @@
+
+.containerGift {
+  width: 80%;
+  margin: 0 auto;
+}
+.bottun {
+  padding: 10px;
+  border-radius: 10px;
+  border: 0.2px solid gray;
+  margin-top: 20px;
+  background-color: #3f4d62;
+  color: #e4b4be;
+}
+.bottun:hover{
+    padding: 10px;
+  border-radius: 10px;
+  border: 0.2px solid gray;
+  margin-top: 20px;
+  color: #3f4d62;
+  background-color: #e4b4be;
+  cursor:pointer;
+}
+.infoDescription {
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #e4b4be;
+  padding: 30px;
+  box-sizing: border-box;
+  border: 1px solid #65505f;
+  border-radius: 10px;
+}
+
+.navStyle {
+  background-color: #3f4d62;
+  color: #e4b4be;
+}

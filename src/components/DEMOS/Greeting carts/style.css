@@ -1,0 +1,41 @@
+
+/* birthday */
+.birthdayBG{
+    position: relative;
+    background-image: url(./images/birthday.jpg) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+}
+.birthdayDear{
+    position: absolute;
+    left: 170px;
+    top: 20px;
+    font-size: 18px;
+}
+.birthdayFirstP{
+    position: absolute;
+    width: 300px;
+    left: 170px;
+    top: 68px;
+    font-size: 14px;
+}
+.birthdaySecondP{
+    position: absolute;
+    left: 170px;
+    top: 300px;
+    font-size: 14px;
+}
+.birthdayYours{
+    position: absolute;
+    left: 500px;
+    top: 395px;
+    font-size: 18px;
+}
+
+
+
+

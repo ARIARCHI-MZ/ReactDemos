@@ -1,0 +1,28 @@
+.headerIcon{
+    padding: 5px;
+}
+.avatar{
+
+    border-radius: 50%;
+
+}
+.CardImg{
+    display: inline-block;
+    height: 60%;
+    width: 100%;
+}
+.Card {
+    display: inline-block;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    color: black;
+}
+.CardHD{
+    font-size: 17px !important;
+    text-align: left !important;
+}
+.ParHD{
+    text-align: left !important;
+    padding: 5px;
+}

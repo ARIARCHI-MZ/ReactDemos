@@ -1,0 +1,34 @@
+/* New year */
+.invitationBG{
+    position: relative;
+    background-image: url(./images/invitation.jpg) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 500px;
+    width: 700px;
+    margin: 0 auto;
+}
+.invitationDear{
+    position: absolute;
+    color: white;
+    left: 360px;
+    top: 135px;
+    font-size: 18px;
+}
+.invitationFirstP{
+    position: absolute;
+    color: white;
+    width: 300px;
+    left: 360px;
+    top: 190px;
+    font-size: 14px;
+}
+
+.invitationYours{
+    position: absolute;
+    color: white;
+    left: 360px;
+    top: 320px;
+    font-size: 18px;
+}
